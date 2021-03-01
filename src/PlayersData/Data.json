@@ -4,91 +4,106 @@
         "id":1,
         "name":"Tamim Iqbal",
         "image":"https://resources.pulse.icc-cricket.com/players/284/287.png",
-        "salary":400000
+        "salary":400000,
+        "role": "BATSMAN"
     },  
     {
         "id":2,
         "name":"Shakib All Hasan",
         "image":"https://resources.pulse.icc-cricket.com/players/284/201.png",
-        "salary":400000
+        "salary":400000,
+        "role": "ALL ROUNDER"
     },   
     {
         "id":3,
         "name":"Mushfiqur Rahman",
         "image":"https://resources.pulse.icc-cricket.com/players/284/491.png",
-        "salary":400000
+        "salary":400000,
+        "role": "BATSMAN"
     },  
     {
         "id":4,
         "name":"Mashrafi Mortaza",
         "image":"https://resources.pulse.icc-cricket.com/players/284/391.png",
-        "salary":400000
+        "salary":400000,
+        "role": "BOWLER"
     },   
     {
         "id":5,
-        "name":"Mehedi Hasan",
+        "name":"Mehedi Hasan Miraz",
         "image":"https://media.gettyimages.com/photos/mehedi-hasan-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-picture-id1151590527?s=2048x2048",
-        "salary":300000
+        "salary":300000,
+        "role": "ALL ROUNDER"
     },  
     {
         "id":6,
         "name":"Mahmudulla Riyad",
         "image":"https://resources.pulse.icc-cricket.com/players/284/492.png",
-        "salary":300000
+        "salary":300000,
+        "role": "ALL ROUNDER"
     },   
     {
         "id":7,
         "name":"Soumya Sarkar",
         "image":"https://resources.pulse.icc-cricket.com/players/284/1919.png",
-        "salary":300000
+        "salary":300000,
+        "role": "ALL ROUNDER"
     },  
     {
         "id":8,
         "name":"Liton Das",
         "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Liton-Das-CWC19.ashx",
-        "salary":300000
+        "salary":300000,
+        "role": "BATSMAN"
     },  
     {
         "id":9,
         "name":"Rubel Hossain",
         "image":"https://media.gettyimages.com/photos/rubel-hossain-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-picture-id1151592824?s=612x612",
-        "salary":300000
+        "salary":300000,
+        "role": "BOWLER"
     },  
     {
         "id":10,
         "name":"Sabbir Rahman",
         "image":"https://resources.pulse.icc-cricket.com/players/284/1734.png",
-        "salary":200000
+        "salary":200000,
+        "role": "BATSMAN"
     },  
     {
         "id":11,
         "name":"Mohammad Mithun",
         "image":"https://media.gettyimages.com/photos/mohammad-mithun-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-picture-id1151587357",
-        "salary":100000
+        "salary":100000,
+        "role": "BATSMAN"
     },  
     {
         "id":12,
         "name":"Mohammad Saifuddin",
         "image":"https://resources.pulse.icc-cricket.com/players/284/2915.png",
-        "salary":100000
+        "salary":100000,
+        "role": "ALL ROUNDER"
     },  
     {
         "id":13,
         "name":"Abu Jayed",
         "image":"https://media.gettyimages.com/photos/abu-jayed-of-bangladesh-poses-for-a-portrait-prior-to-the-icc-cricket-picture-id1151588942",
-        "salary":100000
+        "salary":100000,
+        "role": "ALL ROUNDER"
     },  
     {
         "id":14,
         "name":"Mosaddek Hossain",
         "image":"https://resources.pulse.icc-cricket.com/players/284/1588.png",
-        "salary":100000
+        "salary":100000,
+        "role": "BATSMAN"
     },  
     {
         "id":15,
         "name":"Mustafizur Rahman",
         "image":"https://resources.pulse.icc-cricket.com/players/284/1594.png",
-        "salary":100000
+        "salary":100000,
+        "role": "BOWLER"
     }
 
 

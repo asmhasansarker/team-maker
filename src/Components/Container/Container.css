@@ -1,0 +1,11 @@
+.content{
+    display: flex;
+    width:100%
+}
+.playerList{
+    width:100%;
+    
+}
+.selectedList{
+    width:100%;
+}

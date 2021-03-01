@@ -1,0 +1,13 @@
+.players-cart{
+    width: 300px;
+    border: 1px solid gray;
+    
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 0px 12px 2px #000000;
+}
+.players-cart img{
+    height: 100px;
+   
+}
